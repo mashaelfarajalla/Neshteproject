@@ -1,0 +1,150 @@
+{
+    "Header-top":[
+        {"id":1, "icon":"" , "titleicon":"english"},
+        {"id":2, "icon":"" , "titleicon":"تسجيل دخول" }
+    ],
+
+    "types":[
+        {
+        "car":{"name":" السيارات " , "images":[
+            {"id":1 , "image":"/images/car-1.png"},
+                        {"id":2 , "image":"/images/car-1.png"},
+                         {"id":3 , "image":"/images/car-1.png"},
+                        {"id":4 , "image":"/images/car-1.png"},
+
+                         {"id":5 , "image":"/images/car-1.png"},
+                        {"id":6 , "image":"/images/car-1.png"},
+
+                         {"id":7 , "image":"/images/car-1.png"},
+                        {"id":8 , "image":"/images/car-1.png"},
+
+                         {"id":9 , "image":"/images/car-1.png"},
+                         
+                         {"id":10 , "image":"/images/car-1.png"},
+                        {"id":11 , "image":"/images/car-1.png"},
+
+                         {"id":12 , "image":"/images/car-1.png"}
+
+
+        ]},
+   
+        "brands":{"name":" الماركات  " , "images":[
+           {"id":1 , "image":"/images/car-1.png"},
+                        {"id":2 , "image":"/images/car-1.png"},
+                         {"id":3 , "image":"/images/car-1.png"},
+                        {"id":4 , "image":"/images/car-1.png"},
+
+                         {"id":5 , "image":"/images/car-1.png"},
+                        {"id":6 , "image":"/images/car-1.png"},
+
+                         {"id":7 , "image":"/images/car-1.png"}
+
+        ]},
+       "AnimalsandBirds":{"name":" حيوانات وطيور  " , "images":[
+          {"id":1 , "image":"/images/car-1.png"},
+                        {"id":2 , "image":"/images/car-1.png"},
+                         {"id":3 , "image":"/images/car-1.png"},
+                        {"id":4 , "image":"/images/car-1.png"},
+
+                         {"id":5 , "image":"/images/car-1.png"},
+                        {"id":6 , "image":"/images/car-1.png"},
+
+                         {"id":7 , "image":"/images/car-1.png"},
+                                                  {"id":8 , "image":"/images/car-1.png"}
+
+
+
+        ]},
+            "RealEstate":{"name":" العقارات    " , "images":[
+                 {"id":1 , "image":"/images/car-1.png"},
+                        {"id":2 , "image":"/images/car-1.png"},
+                         {"id":3 , "image":"/images/car-1.png"},
+                        {"id":4 , "image":"/images/car-1.png"},
+
+                         {"id":5 , "image":"/images/car-1.png"},
+                        {"id":6 , "image":"/images/car-1.png"},
+
+                         {"id":7 , "image":"/images/car-1.png"},
+                        {"id":8 , "image":"/images/car-1.png"},
+
+                         {"id":9 , "image":"/images/car-1.png"},
+                         
+                         {"id":10 , "image":"/images/car-1.png"},
+                        {"id":11 , "image":"/images/car-1.png"},
+
+                         {"id":12 , "image":"/images/car-1.png"}
+
+        ]}
+    }
+    ],
+        "CuttingSection":[
+            {"id":1  , "image":"/images/cutting-1.jpg" , "title":" للبيع نظيفة2018سوناتا ", "icons":[
+            {"id":1, "icon":"", "icontitle":"fahd0908"},
+             {"id":2, "icon":"", "icontitle":"احد رفيده"},
+              {"id":3, "icon":"", "icontitle":"118623510"},
+               {"id":4, "icon":"", "icontitle":"20000$"}
+
+            ]},
+        
+        {"id":2  , "image":"/images/cutting-1.jpg" , "title":" للبيع نظيفة2018سوناتا ", "icons":[
+            {"id":1, "icon":"", "icontitle":"fahd0908"},
+             {"id":2, "icon":"", "icontitle":"احد رفيده"},
+              {"id":3, "icon":"", "icontitle":"118623510"},
+               {"id":4, "icon":"", "icontitle":"20000$"}
+
+            ]},
+            {"id":3  , "image":"/images/cutting-1.jpg" , "title":" للبيع نظيفة2018سوناتا ", "icons":[
+            {"id":1, "icon":"", "icontitle":"fahd0908"},
+             {"id":2, "icon":"", "icontitle":"احد رفيده"},
+              {"id":3, "icon":"", "icontitle":"118623510"},
+               {"id":4, "icon":"", "icontitle":"20000$"}
+
+            ]},
+            {"id":8  , "image":"/images/cutting-1.jpg" , "title":" للبيع نظيفة2018سوناتا ", "icons":[
+            {"id":1, "icon":"", "icontitle":"fahd0908"},
+             {"id":2, "icon":"", "icontitle":"احد رفيده"},
+              {"id":3, "icon":"", "icontitle":"118623510"},
+               {"id":4, "icon":"", "icontitle":"20000$"}
+
+            ]},
+            {"id":4  , "image":"/images/cutting-1.jpg" , "title":" للبيع نظيفة2018سوناتا ", "icons":[
+            {"id":1, "icon":"", "icontitle":"fahd0908"},
+             {"id":2, "icon":"", "icontitle":"احد رفيده"},
+              {"id":3, "icon":"", "icontitle":"118623510"},
+               {"id":4, "icon":"", "icontitle":"20000$"}
+
+            ]},
+            {"id":5  , "image":"/images/cutting-1.jpg" , "title":" للبيع نظيفة2018سوناتا ", "icons":[
+            {"id":1, "icon":"", "icontitle":"fahd0908"},
+             {"id":2, "icon":"", "icontitle":"احد رفيده"},
+              {"id":3, "icon":"", "icontitle":"118623510"},
+               {"id":4, "icon":"", "icontitle":"20000$"}
+
+            ]},
+            {"id":6  , "image":"/images/cutting-1.jpg" , "title":" للبيع نظيفة2018سوناتا ", "icons":[
+            {"id":1, "icon":"", "icontitle":"fahd0908"},
+             {"id":2, "icon":"", "icontitle":"احد رفيده"},
+              {"id":3, "icon":"", "icontitle":"118623510"},
+               {"id":4, "icon":"", "icontitle":"20000$"}
+
+            ]},
+          
+            {"id":7  , "image":"/images/cutting-1.jpg" , "title":" للبيع نظيفة2018سوناتا ", "icons":[
+            {"id":1, "icon":"", "icontitle":"fahd0908"},
+             {"id":2, "icon":"", "icontitle":"احد رفيده"},
+              {"id":3, "icon":"", "icontitle":"118623510"},
+               {"id":4, "icon":"", "icontitle":"20000$"}
+
+            ]}
+        ]
+        ,
+        "Announcement2":[
+            {"id":1,"title":" للبيع نظيفة2018سوناتا " ,"image":"/images/cutting-1.jpg"},
+            {"id":2,"title":"سيارة سوناتا 2017  " ,"image":"/images/cutting-1.jpg"},
+             {"id":3,"title":" بارخص الاسعارstcتفعيل باقات سوا وجوي" ,"image":"/images/cutting-1.jpg"},
+            {"id":4,"title":"كابات بالتطريز-بلوجو الشركة-والمطاعم -والتموينات" ,"image":"/images/cutting-1.jpg"},
+             {"id":5,"title":"غرف إفراغ فوري في السلامه4شقق للتمليك " ,"image":"/images/cutting-1.jpg"}
+        ]
+        
+
+}
